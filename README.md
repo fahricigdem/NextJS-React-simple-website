@@ -1,4 +1,6 @@
-# https://next-js-react-simple-website.vercel.app/
+# see the website -->  https://next-js-react-simple-website.vercel.app/
+
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
